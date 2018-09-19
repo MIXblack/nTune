@@ -1,5 +1,6 @@
  ## nTune
 * It is one page Website design.
+* It's also Responsive design.
 * Inspired by __Apple__ - iTune website.
 * nTune create, using only __HTML__, __CSS__ & __CSS-Grid__ proterties.
 
